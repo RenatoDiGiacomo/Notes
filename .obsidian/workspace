@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas Compromissos/Compromissos.md",
-            "mode": "preview",
+            "file": "BNP/ProAC/Trabalhos/Alteração do Menu.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "57170ce988dd3755",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Compromissos/Compromissos.md",
+                "file": "BNP/ProAC/Trabalhos/Alteração do Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "e788cafa919e18ac",
   "lastOpenFiles": [
-    "Notas Compromissos/Compromissos.md",
-    "Notas Compromissos/Links/WORKSHOP.md",
     "BNP/ProAC/Trabalhos/Alteração do Menu.md",
+    "BNP/Workshop/GitHub.md",
+    "Notas Compromissos/Links/WORKSHOP.md",
+    "Notas Compromissos/Compromissos.md",
     "BNP/ProAC/Mockups/Menu.md",
     "BNP/ProAC/Reuniões/Reuniões 03-03.md",
     "BNP/ProAC/ProAC Expresso.md",
     "BNP/ProAC/ProAC ICMS.md",
     "4Future/SSH e Chaves Multiplas.md",
-    "Trabalhos/ProAC/email.md",
-    "Notas.md"
+    "Trabalhos/ProAC/email.md"
   ]
 }
